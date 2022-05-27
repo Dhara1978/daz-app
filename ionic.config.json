@@ -1,0 +1,8 @@
+{
+  "name": "daz_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0e4a85a5"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "daz_app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
